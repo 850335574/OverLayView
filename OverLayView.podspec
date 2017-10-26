@@ -8,5 +8,5 @@ s.authors = { 'wanggh' => '850335574@qq.com' }
 s.source = { :git => 'https://github.com/850335574/OverLayView.git', :tag => s.version.to_s }
 s.requires_arc = true
 s.ios.deployment_target = '8.0'
-s.source_files = 'OverLayView/OverLayView/*.{h,m}'
+s.source_files = 'OverLayView/*.{h,m}'
 end
